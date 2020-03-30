@@ -17,6 +17,7 @@ namespace xialakuang
             var c = a + b;
             var d = 77;
             c = c + d;
+            var f=22;
         }
     }
 }
