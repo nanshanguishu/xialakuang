@@ -6,6 +6,7 @@
                     <asp:ListItem Value="3">北海</asp:ListItem>
                     <asp:ListItem Value="5">南京</asp:ListItem>
                     <asp:ListItem Value="7">南沽</asp:ListItem>
+                    <asp:ListItem Value="8">测试</asp:ListItem>
 </asp:DropDownList>
 <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
 <ajaxToolkit:ComboBox ID="DropDownList1" AutoPostBack="False"  DropDownStyle="DropDownList"  TargetControlID="DropDownList1"  AutoCompleteMode="Suggest" CaseSensitive="False"   ItemInsertLocation="Append" runat="server"></ajaxToolkit:ComboBox>
