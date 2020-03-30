@@ -11,7 +11,10 @@ namespace xialakuang
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            //ceshi
+            var a = 11;
+            var b = 22;
+            var c = a + b;
         }
     }
 }
